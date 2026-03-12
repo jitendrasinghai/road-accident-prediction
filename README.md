@@ -30,6 +30,3 @@ python main.py
 ## 👤 Author
 [Jitendra Singh] | [Delhi Skill And Entrepernership University | 2nd Year B.Tech
 GitHub: github.com/jitendrasinghai
-## 👤 Author
-[Your Name] | [College Name] | 2nd Year B.Tech
-GitHub: github.com/[yourusername]
